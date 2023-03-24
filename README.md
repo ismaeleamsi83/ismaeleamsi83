@@ -9,8 +9,7 @@ después hice el Grado Medio CFGM Sistemas Microinformáticos y Redes en la Esco
 Actualmente estoy acabando el Grado Superior CFGS DAM Desenvolupament d'Aplicacions Multiplataforma en La Salle Gracia en Barcelona.
 Quiero dedicarme profesionalmente en este mundo que me apasiona, solo necesito una oportunidad para empezar y poder demostrar que con esfuerzo y dedicación puedo realizar los trabajos y proyectos que me asignen.
 
-## ⚡ Technologies
-Talk to me about
+## ⚡ Tecnologías
 - Front-end desarrollo usando **Angular, JavaScript, TypeScript, HTML5, CSS3**
 - Backend desarrollo usando **PHP, Laravel, XML, JSON**
 - Desktop application desarrollo usando **JAVA, .Net C#**
@@ -18,6 +17,6 @@ Talk to me about
 - Mobile application desarrollo usando **Android Studio (Java o Kotlin), Ionic, Phaser**
 - Version Control usando **GitHub, Bitbucket**
 
-## 📫 Contact Me
+## 📫 Contactame
 - LinkedIn - [Ismael Rey](https://www.linkedin.com/in/ismael-rey-plata/)
 - Portafolio - [GC Codes](https://ismaelreyportafolio.000webhostapp.com/)
