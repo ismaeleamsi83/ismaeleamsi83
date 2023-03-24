@@ -19,4 +19,4 @@ Quiero dedicarme profesionalmente en este mundo que me apasiona, solo necesito u
 
 ## 📫 Contactame
 - LinkedIn - [Ismael Rey](https://www.linkedin.com/in/ismael-rey-plata/)
-- Portafolio - [GC Codes](https://ismaelreyportafolio.000webhostapp.com/)
+- Portafolio - [Proyectos](https://ismaelreyportafolio.000webhostapp.com/)
