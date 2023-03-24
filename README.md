@@ -6,7 +6,7 @@ Desarrollador de aplicaciones multiplataforma
 En los últimos 7 años estoy haciendo un cambio en mi vida de forma profesional.
 Primero realicé un Curso privado Técnico Programador de Páginas Web,
 después hice el Grado Medio CFGM Sistemas Microinformáticos y Redes en la Escola del Treball en Barcelona.
-Actualmente estoy acabando el Grado Superior CFGS DAM Desenvolupament d'Aplicacions Multiplataforma en La Salle Gracia en Barcelona.
+Actualmente estoy acabando el Grado Superior CFGS DAM Desarrollo de Aplicaciones Multiplataforma en La Salle Gracia en Barcelona.
 Quiero dedicarme profesionalmente en este mundo que me apasiona, solo necesito una oportunidad para empezar y poder demostrar que con esfuerzo y dedicación puedo realizar los trabajos y proyectos que me asignen.
 
 ## ⚡ Tecnologías
